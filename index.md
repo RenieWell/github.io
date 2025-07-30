@@ -16,7 +16,7 @@ Welcome! I am currently working as a Research Algorithm Expert at Manycore Tech 
   InteriorGS bridges the gap between scan-based and artist-designed datasets by combining photorealistic rendering with 3DGS reconstruction from over 5 million images. It includes:
   - 554,000+ object instances across 755 categories
   - Per-object semantic labels and 3D bounding boxes
-  - Occupancy maps foragent navigation
+  - Occupancy maps for agent navigation
   - 80+ environment types (e.g., homes, museums, convenience stores)
 
   The dataset supports research in 3D scene understanding, controllable generation, and embodied AI. A web-based viewer is also available for exploring the data.
