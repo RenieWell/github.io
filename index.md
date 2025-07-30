@@ -44,15 +44,6 @@ _Postdoctoral Researcher | Aug 2021 – Jul 2023_
 
 ---
 
-## 📝 Selected Publications
-
-- **ShapeFusion** (ICASSP 2025, under review): Dual-mesh variational autoencoding for 3D object reconstruction.
-- **3DMIT** (ICMEW 2024): Multi-modal instruction tuning for 3D scene understanding.
-- **SwiftGS** (submitted): Real-time 3DGS compression with multi-resolution coding.
-- > [Full publication list available upon request or via Google Scholar]
-
----
-
 ## 📌 Patents (Partial List)
 
 - CN-118154713-A: Scene rendering method and system
