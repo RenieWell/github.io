@@ -11,6 +11,17 @@ Welcome! I am currently working as a Research Algorithm Expert at Manycore Tech 
 📍 Based in Hangzhou, China
 
 ---
+## 🗞 News
+- **[2025.07]** We release [**InteriorGS**](https://huggingface.co/datasets/spatialverse/InteriorGS), a high-quality 3D Gaussian Splatting dataset of 1,000 richly annotated indoor scenes!  
+  InteriorGS bridges the gap between scan-based and artist-designed datasets by combining photorealistic rendering with 3DGS reconstruction from over 5 million images. It includes:
+  - 554,000+ object instances across 755 categories
+  - Per-object semantic labels and 3D bounding boxes
+  - Occupancy maps foragent navigation
+  - 80+ environment types (e.g., homes, museums, convenience stores)
+
+  The dataset supports research in 3D scene understanding, controllable generation, and embodied AI. A web-based viewer is also available for exploring the data.
+  ![InteriorGS.jpg](https://kloudsim-usa-cos.kujiale.com/InteriorGS/InteriorGS_overview2.jpg)
+  <p align="center"><em>Sample from the InteriorGS dataset.</em></p>
 
 ## 🎓 Education
 
@@ -63,9 +74,5 @@ _Postdoctoral Researcher | Aug 2021 – Jul 2023_
 
 ## 🌐 Skills & Languages
 
-- **Programming**: C++, Python, PyTorch, Vulkan, UE4, Shader, OpenCV  
+- **Programming**: C++, Python, PyTorch, Vulkan, UE5, Isaac Sim  
 - **Languages**: Chinese (native), English (CET-6)
-
----
-
-_This homepage is powered by [GitHub Pages](https://pages.github.com/) and Jekyll._
