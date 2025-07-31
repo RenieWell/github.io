@@ -23,18 +23,6 @@ Welcome! I am currently working as a Research Algorithm Expert at Manycore Tech 
   ![InteriorGS.jpg](https://kloudsim-usa-cos.kujiale.com/InteriorGS/InteriorGS_overview2.jpg)
   <p align="center"><em>Sample from the InteriorGS dataset.</em></p>
 
-## 🎓 Education
-
-**Peking University**  
-_Ph.D. in Biomedical Engineering (3D data denoising and compressing)_  
-2016.07 – 2021.07, Beijing, China
-
-**Xidian University**  
-_B.Eng. in Integrated Circuit Design and Systems_  
-2012.07 – 2016.07, Xi'an, China
-
----
-
 ## 💼 Work Experience
 ### Manycore Tech Inc
 _Research Algorithm Expert | Present_
@@ -45,10 +33,20 @@ _Senior Engineer | Jul 2023 – Mar 2025_
 ### Huawei Central Media Research Institute  
 _Postdoctoral Researcher | Aug 2021 – Jul 2023_
 
----
+
+## 🎓 Education
+
+**Peking University**  
+_Ph.D. in Biomedical Engineering (3D data denoising and compressing)_  
+2016.07 – 2021.07, Beijing, China
+
+**Xidian University**  
+_B.Eng. in Integrated Circuit Design and Systems_  
+2012.07 – 2016.07, Xi'an, China
+
 
 ## 🧪 Research Projects (Selected)
-
+- **Layout Generation Framework**: A framework for multimodal-conditioned 3D indoor scene generation using hierarchical scene graphs for controllable layout and semantics. _Ongoing project, 2025_
 - **SomaSeg Framework**: Robust neuron segmentation for two-photon imaging videos. _Journal of Neural Engineering, 2024_  
 - **PSC Differentiation Monitoring**: Early-stage stem cell classification via brightfield imaging. _Cell Discovery, 2023_  
 - **Explainable Prostate Cancer Detection**: Multi-modal segmentation and registration for MRI. _ISMRM, JMRI, etc._
